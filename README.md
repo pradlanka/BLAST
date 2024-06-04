@@ -1,2 +1,2 @@
 # BLAST
-Codes for the BLAST project
+Codes for the first level analysis for the BLAST project
